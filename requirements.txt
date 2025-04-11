@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+joblib
+openpyxl
+gtts
+flask
+requests
+matplotlib
