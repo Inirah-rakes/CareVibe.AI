@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 scikit-learn
 joblib
@@ -5,4 +6,13 @@ openpyxl
 gtts
 flask
 requests
+=======
+pandas
+scikit-learn
+joblib
+openpyxl
+gtts
+flask
+requests
+>>>>>>> 7390bf1e558969d04af97332ef20225c025a40de
 matplotlib
